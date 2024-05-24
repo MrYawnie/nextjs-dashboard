@@ -54,5 +54,5 @@ Kurssi on ollut monipuolinen ja mahdollisuus osallistua etänä on ollut arvokas
 - **Projektin videoesitys**: [YouTube Video](https://youtu.be/oUdiDJMHdeo)
 
 ## Lähteet
-- [Next.js: Learn Next.js](https://nextjs.org/) (2024)
+- [Next.js: Learn Next.js](https://nextjs.org/learn/dashboard-app) (2024)
 - [Next.js: The React Framework for the Web](https://nextjs.org/) (2024)
