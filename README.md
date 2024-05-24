@@ -51,7 +51,7 @@ Kurssi on ollut monipuolinen ja mahdollisuus osallistua etänä on ollut arvokas
 ## Linkit
 - **Verkkosivun osoite**: [Next.js Dashboard](https://nextjs-dashboard-beige-alpha-69.vercel.app/)
 - **GitHub Repository**: [nextjs-dashboard](https://github.com/MrYawnie/nextjs-dashboard/)
-- **Projektin videoesitys**: [YouTube Video](https://youtu.be/3pvbwNWuIrU)
+- **Projektin videoesitys**: [YouTube Video](https://youtu.be/oUdiDJMHdeo)
 
 ## Lähteet
 - [Next.js: Learn Next.js](https://nextjs.org/) (2024)
